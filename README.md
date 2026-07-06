@@ -277,67 +277,6 @@ An embedded system that accurately measures object speed using dual IR sensors a
 
 ---
 
-# 📈 Project Philosophy
-
-> **Every project I build is focused on solving a real-world problem while improving my understanding of software engineering, backend development, AI, and embedded systems. My goal is not just to complete projects, but to create solutions that demonstrate practical skills and continuous learning.**
-
----# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansh-dawar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-dawar&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-dawar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ansh-dawar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-dawar&theme=tokyo-night&hide_border=true&radius=15"/>
-
-</div>
-
----
-
-# ⚡ Development Overview
-
-<div align="center">
-
-| 💻 Focus | 🚀 Status |
-|:---------|:---------:|
-| Full Stack Development | 🟢 Active |
-| Artificial Intelligence | 🟢 Learning |
-| Backend Engineering | 🟢 Active |
-| Data Structures & Algorithms | 🟢 Improving Daily |
-| Embedded Systems | 🟢 Active |
-| Open Source | 🟡 Coming Soon |
-
-</div>
-
----
-
 # 📌 Quick Facts
 
 <div align="center">
@@ -370,23 +309,6 @@ An embedded system that accurately measures object speed using dual IR sensors a
 | 🏆 Top 12 / 180+ Teams (Coding Contest) | ✅ |
 | 🤖 IBM AI Fundamentals | ✅ Completed |
 | 📚 IBM AI Course | 🚀 In Progress |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Progress |
-|:-----|:--------:|
-| 🚀 Build 15+ Production Projects | 🟡 |
-| 🤖 Master AI Engineering | 🟡 |
-| 💻 Become Full Stack Developer | 🟢 |
-| 🧠 Solve 500+ DSA Problems | 🟡 |
-| 🌍 Contribute to Open Source | 🔜 |
-| 💼 Secure Software Engineering Internship | 🎯 |
 
 </div>
 
