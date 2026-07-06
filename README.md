@@ -308,7 +308,7 @@ An embedded system that accurately measures object speed using dual IR sensors a
 | 🥈 Code Veda Hackathon Finalist | ✅ |
 | 🏆 Top 12 / 180+ Teams (Coding Contest) | ✅ |
 | 🤖 IBM AI Fundamentals | ✅ Completed |
-| 📚 IBM AI Course | 🚀 In Progress |
+| 📚 IBM Software Development Course | 🚀 In Progress |
 
 </div>
 
