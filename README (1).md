@@ -1,126 +1,455 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Shivansh%20Dawar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(IoT)%20Undergrad%20%7C%20Full-Stack%20%26%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Shivansh%20Dawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20IoT%20Engineer&descAlignY=58&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Shivansh+Dawar+%F0%9F%91%8B;Full+Stack+Developer;AI+Enthusiast;IoT+%26+Embedded+Systems+Developer;Always+Building.+Always+Learning." />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/shivansh-dawar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:shivanshdawar1506@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/ansh-dawar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+React+and+Node;Blending+IoT+with+Embedded+Systems;Turning+ideas+into+working+prototypes;Currently+diving+into+AI+powered+apps" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-## 🧠 About Me
-
-- 🎓 B.Tech CSE (IoT) undergraduate at **Raj Kumar Goel Institute of Technology**, Ghaziabad (2023 – 2027)
-- 💻 Focused on **frontend & full-stack development** with a strong base in **DSA and embedded systems**
-- 🔧 I like building things that bridge **hardware and software** — from Arduino sensors to full MERN stack apps
-- 🏆 Hackathon finalist at **Code Mantra** & **Code Veda**
-- 📫 Reach me at **shivanshdawar1506@gmail.com**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-**Database**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
-**Hardware & IoT**
-<br/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=ansh-dawar&style=for-the-badge&color=2563eb"/>
 
 </div>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRta3Fydjh1Zm5mZWF6Mm9taW5xem9iNTRrNnQ4MGs4d2F2aDJ4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+### Hey, I'm Shivansh!
+
+I'm a passionate **Computer Science (IoT)** undergraduate who loves transforming ideas into real-world products through software and embedded systems.
+
+My interests span across **Artificial Intelligence**, **Full Stack Development**, **Backend Engineering**, and **IoT**, where I enjoy creating solutions that are practical, scalable, and impactful.
+
+Currently, I'm focused on building production-ready projects, strengthening my Data Structures & Algorithms skills, and exploring AI-powered applications while preparing for software engineering internships.
+
+I believe in continuous learning, writing clean code, and building projects that solve meaningful problems rather than simply following tutorials.
+
+---
+
+## 🚀 Current Focus
+
+```text
+🟢 Building AI-powered Applications
+
+🟢 Mastering Full Stack Development
+
+🟢 Learning Modern AI Technologies
+
+🟢 Solving Data Structures & Algorithms
+
+🟢 Building Strong GitHub Portfolio
+
+🟢 Preparing for Software Engineering Internships
+```
+
+---# ⚡ Tech Arsenal
 
 <div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+---
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+### 🔧 Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+### 🤖 Hardware & IoT
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IR%20Sensors-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servo%20Motor-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LCD%2016x2-00897B?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧠 Core Strengths
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 💡 Software Development
+
+- Full Stack Web Development
+- REST API Development
+- Backend Development
+- Frontend UI Development
+- Authentication Systems
+- Database Design
+- Problem Solving
+- Clean Code Practices
+
+</td>
+
+<td width="50%">
+
+### ⚙ Embedded Systems
+
+- Arduino Development
+- IoT Projects
+- Sensor Integration
+- Automation Systems
+- Real-Time Monitoring
+- Hardware Debugging
+- Electronic Prototyping
+- Embedded Programming
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🧠 Artificial Intelligence
+
+⚛ Advanced React Ecosystem
+
+🐍 Advanced Python
+
+📈 Data Structures & Algorithms
+
+☁ Modern Backend Development
+
+🚀 Building Production Ready Applications
+```
+
+---
+
+# 🌟 Developer Philosophy
+
+> **"I don't build projects just to complete them. I build projects to learn deeply, solve real-world problems, and continuously improve as an engineer."**
+
+---# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ansh-dawar/ai-interview-coach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=ai-interview-coach&theme=tokyonight&hide_border=true&border_radius=12"/>
+</a>
+
+### 🤖 AI Interview Coach
+
+An AI-powered interview preparation platform that simulates technical interviews, evaluates responses, and helps candidates improve through intelligent feedback.
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `FastAPI`
+
+---
 
 <a href="https://github.com/ansh-dawar/Medicine-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=Medicine-Hub&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=Medicine-Hub&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
-<a href="https://github.com/ansh-dawar/ai-interview-coach">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=ai-interview-coach&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
+
+### 💊 Medicine Hub
+
+A full-stack web application that enables users to donate, request, and manage medicines through a secure authentication system and modern backend architecture.
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB`
+
+---
+
 <a href="https://github.com/ansh-dawar/Arduino-Smart-Parking-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=Arduino-Smart-Parking-System&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=Arduino-Smart-Parking-System&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
+
+### 🚗 Arduino Smart Parking System
+
+An automated parking solution capable of detecting vehicles, controlling entry gates, and displaying available parking slots using embedded hardware.
+
+**Tech Stack**
+
+`Arduino` • `IR Sensors` • `Servo Motor` • `LCD Display`
+
+---
+
 <a href="https://github.com/ansh-dawar/Arduino-Speedometer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=Arduino-Speedometer&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-dawar&repo=Arduino-Speedometer&theme=tokyonight&hide_border=true&border_radius=12"/>
+</a>
+
+### 📏 Arduino Digital Speedometer
+
+An embedded system that accurately measures object speed using dual IR sensors and displays real-time speed calculations on an LCD.
+
+**Tech Stack**
+
+`Arduino` • `Embedded C` • `IR Sensors` • `LCD`
+
+</div>
+
+---
+
+# 🌟 Project Highlights
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Interview Coach | AI-powered mock interview platform with intelligent feedback |
+| 💊 Medicine Hub | Full-stack medicine donation and management system |
+| 🚗 Smart Parking | Automated IoT parking management prototype |
+| 📏 Digital Speedometer | Real-time speed measurement using Arduino |
+
+</div>
+
+---
+
+# 💼 What I Love Building
+
+```text
+🤖 Artificial Intelligence Applications
+
+🌐 Full Stack Web Applications
+
+⚙ Embedded Systems
+
+📡 Internet of Things (IoT)
+
+🔗 REST APIs
+
+📊 Backend Systems
+
+💡 Real-world Problem Solving
+```
+
+---
+
+# 📈 Project Philosophy
+
+> **Every project I build is focused on solving a real-world problem while improving my understanding of software engineering, backend development, AI, and embedded systems. My goal is not just to complete projects, but to create solutions that demonstrate practical skills and continuous learning.**
+
+---# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansh-dawar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-dawar&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-dawar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ansh-dawar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-dawar&theme=tokyo-night&hide_border=true&radius=15"/>
+
+</div>
+
+---
+
+# ⚡ Development Overview
+
+<div align="center">
+
+| 💻 Focus | 🚀 Status |
+|:---------|:---------:|
+| Full Stack Development | 🟢 Active |
+| Artificial Intelligence | 🟢 Learning |
+| Backend Engineering | 🟢 Active |
+| Data Structures & Algorithms | 🟢 Improving Daily |
+| Embedded Systems | 🟢 Active |
+| Open Source | 🟡 Coming Soon |
+
+</div>
+
+---
+
+# 📌 Quick Facts
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🎓 Degree | B.Tech CSE (IoT) |
+| 🏫 College | Raj Kumar Goel Institute of Technology |
+| 📍 Location | Ghaziabad, India 🇮🇳 |
+| 💼 Looking For | Software Engineering Internship |
+| ❤️ Interests | AI • Full Stack • Backend • IoT |
+| 🌱 Currently Learning | AI Engineering & Advanced Full Stack |
+
+</div>
+
+---
+
+# 💡 Engineering Mindset
+
+> **"Great software isn't just about writing code—it's about understanding problems, designing scalable solutions, and continuously learning to build products that make an impact."**
+
+---# 🏅 Achievements & Milestones
+
+<div align="center">
+
+| 🏆 Achievement | Status |
+|:--------------|:------:|
+| 🥈 Code Mantra Hackathon Finalist | ✅ |
+| 🥈 Code Veda Hackathon Finalist | ✅ |
+| 🏆 Top 12 / 180+ Teams (Coding Contest) | ✅ |
+| 🤖 IBM AI Fundamentals | ✅ Completed |
+| 📚 IBM AI Course | 🚀 In Progress |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:-----|:--------:|
+| 🚀 Build 15+ Production Projects | 🟡 |
+| 🤖 Master AI Engineering | 🟡 |
+| 💻 Become Full Stack Developer | 🟢 |
+| 🧠 Solve 500+ DSA Problems | 🟡 |
+| 🌍 Contribute to Open Source | 🔜 |
+| 💼 Secure Software Engineering Internship | 🎯 |
+
+</div>
+
+---
+
+# 🤝 Open To Collaborate
+
+I'm always interested in collaborating on projects involving:
+
+✅ Artificial Intelligence
+
+✅ Full Stack Development
+
+✅ Backend Engineering
+
+✅ REST APIs
+
+✅ React Applications
+
+✅ IoT & Embedded Systems
+
+✅ Open Source
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> ### *"Success isn't measured by the number of projects you start, but by the problems you solve and the impact you create."*
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shivanshdawar1506@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivansh-dawar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ansh-dawar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ansh-dawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.demolab.com?user=ansh-dawar&theme=tokyonight&hide_border=true" width="48%" />
+### 💙 Thanks for visiting my profile!
 
-<br/>
+If you enjoy my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-dawar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<br>
 
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ansh-dawar/ansh-dawar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💭 "Code. Debug. Deploy. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=ansh-dawar&label=Profile%20Views&color=2c5364&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
 
 </div>
